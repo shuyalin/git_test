@@ -11,7 +11,7 @@ unsigned char receve[100];
 
 //v1.0
 //v1.1
-
+//v1.2
 int main()
 {
 	int i;
