@@ -9,6 +9,9 @@
 #define ENC_READ_SIGNAL 6
 unsigned char receve[100];
 
+//v1.0
+
+
 int main()
 {
 	int i;
